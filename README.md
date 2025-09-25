@@ -21,7 +21,7 @@ I chose wordpress by doing a careful research on present market demands. I feel 
 
 
 ## Rapidfire  
-<table><tr><td valign="top" width="50%">
+
 
 - 🔭 I’m currently working on Freelance sites.  
   
@@ -29,10 +29,8 @@ I chose wordpress by doing a careful research on present market demands. I feel 
 - 🌱 I’m currently learning website building on wordpress by using different plugins and their speed optimization.  
 
 
-</td><td valign="top" width="50%">
 
 <div align="center">
-<img src="" align="center" style="width: 100%" />
 </div>  
 
 
