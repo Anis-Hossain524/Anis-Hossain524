@@ -32,7 +32,7 @@ I chose wordpress by doing a careful research on present market demands. I feel 
 </td><td valign="top" width="50%">
 
 <div align="center">
-<img src="https://ibb.co.com/hFs6kL3X" align="center" style="width: 100%" />
+<img src="" align="center" style="width: 100%" />
 </div>  
 
 
